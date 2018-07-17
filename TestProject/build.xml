@@ -70,4 +70,5 @@
     nbproject/build-impl.xml file. 
 
     -->
+ <target name="-post-jar" depends="test"/>
 </project>
